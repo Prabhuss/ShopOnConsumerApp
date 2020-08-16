@@ -1,0 +1,377 @@
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\bin\Debug\netstandard2.0\PyConsumerApp.deps.json
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\bin\Debug\netstandard2.0\PyConsumerApp.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\bin\Debug\netstandard2.0\ref\PyConsumerApp.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\bin\Debug\netstandard2.0\PyConsumerApp.pdb
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.csprojAssemblyReference.cache
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Themes\LightTheme.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Bookmarks\CartPage.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Bookmarks\PriceDetailView.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Bookmarks\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\CatalogFilterView.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\CatalogListPage.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\CategoryTilePage.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\SearchItem.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\SubCategoryPage.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\ConnectionView.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Detail\DetailPage.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Detail\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\ErrorandEmpty\EmptyView.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\ErrorandEmpty\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\LoginPage.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\OTPEntry.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\OTPView.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\PhoneNumberEntry.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\History\MyOrdersPage.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\History\MyOrdersView.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\History\OrderSummary.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\AlbumPage.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\BottomNavigationPage.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\Orders.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\PhotosPage.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\SettingsPage.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Profile\ProfileEditPage.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Profile\ProfilePage.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Profile\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Settings\SettingPage.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Settings\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\CartItemListTemplate.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\OrderHistoryTemplate.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\ProductListTemplate.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\SearchItemListTemplate.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\AddressEditPage.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\CheckoutPage.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\DeliveryView.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\PaymentSuccessPage.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\PaymentView.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\PriceDetailView.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.AssemblyInfoInputs.cache
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.AssemblyInfo.cs
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.csproj.CoreCompileInputs.cache
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\ref\PyConsumerApp.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.pdb
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\bin\Debug\netstandard2.0\PyConsumerApp.deps.json
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\bin\Debug\netstandard2.0\PyConsumerApp.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\bin\Debug\netstandard2.0\ref\PyConsumerApp.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\bin\Debug\netstandard2.0\PyConsumerApp.pdb
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.csprojAssemblyReference.cache
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Themes\LightTheme.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Bookmarks\CartPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Bookmarks\PriceDetailView.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Bookmarks\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\CatalogFilterView.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\CatalogListPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\CategoryTilePage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\SearchItem.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\SubCategoryPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\ConnectionView.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Detail\DetailPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Detail\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\ErrorandEmpty\EmptyView.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\ErrorandEmpty\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\LoginPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\OTPEntry.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\OTPView.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\PhoneNumberEntry.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\History\MyOrdersPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\History\MyOrdersView.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\History\OrderSummary.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\AlbumPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\BottomNavigationPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\Orders.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\PhotosPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\SettingsPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Offers\OffersTilePage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Offers\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Profile\ProfileEditPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Profile\ProfilePage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Profile\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Settings\SettingPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Settings\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\CartItemListTemplate.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\OrderHistoryTemplate.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\ProductListTemplate.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\SearchItemListTemplate.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\AddressEditPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\CheckoutPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\DeliveryView.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\PaymentSuccessPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\PaymentView.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\PriceDetailView.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.AssemblyInfoInputs.cache
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.AssemblyInfo.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.csproj.CoreCompileInputs.cache
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\ref\PyConsumerApp.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.pdb
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\bin\Debug\netstandard2.0\PyConsumerApp.deps.json
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\bin\Debug\netstandard2.0\PyConsumerApp.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\bin\Debug\netstandard2.0\ref\PyConsumerApp.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\bin\Debug\netstandard2.0\PyConsumerApp.pdb
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Themes\LightTheme.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Bookmarks\CartPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Bookmarks\PriceDetailView.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Bookmarks\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\CatalogFilterView.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\CatalogListPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\CategoryTilePage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\SearchItem.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\SubCategoryPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\ConnectionView.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Detail\DetailPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Detail\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\ErrorandEmpty\EmptyView.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\ErrorandEmpty\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\LoginPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\OTPEntry.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\OTPView.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\PhoneNumberEntry.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\History\MyOrdersPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\History\MyOrdersView.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\History\OrderSummary.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\History\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\AlbumPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\BottomNavigationPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\Orders.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\PhotosPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\SettingsPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Offers\OffersTilePage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Offers\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Profile\ProfileEditPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Profile\ProfilePage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Profile\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Settings\SettingPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Settings\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\CartItemListTemplate.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\OrderHistoryTemplate.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\ProductListTemplate.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\SearchItemListTemplate.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\AddressEditPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\CheckoutPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\DeliveryView.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\LoyaltyPointsView.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\PaymentSuccessPage.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\PaymentView.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\PriceDetailView.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.AssemblyInfoInputs.cache
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.AssemblyInfo.cs
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.csproj.CoreCompileInputs.cache
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\ref\PyConsumerApp.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.pdb
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\bin\Debug\netstandard2.0\PyConsumerApp.deps.json
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\bin\Debug\netstandard2.0\PyConsumerApp.dll
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\bin\Debug\netstandard2.0\ref\PyConsumerApp.dll
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\bin\Debug\netstandard2.0\PyConsumerApp.pdb
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.csprojAssemblyReference.cache
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Themes\LightTheme.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Bookmarks\CartPage.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Bookmarks\PriceDetailView.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Bookmarks\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\CatalogFilterView.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\CatalogListPage.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\CategoryTilePage.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\SearchItem.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\SubCategoryPage.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\ConnectionView.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Detail\DetailPage.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Detail\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\ErrorandEmpty\EmptyView.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\ErrorandEmpty\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\LoginPage.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\OTPEntry.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\OTPView.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\PhoneNumberEntry.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\History\MyOrdersPage.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\History\MyOrdersView.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\History\OrderSummary.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\History\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\AlbumPage.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\BottomNavigationPage.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\Orders.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\PhotosPage.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\SettingsPage.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Offers\OffersTilePage.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Offers\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Profile\ProfileEditPage.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Profile\ProfilePage.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Profile\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Settings\SettingPage.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Settings\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\CartItemListTemplate.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\OrderHistoryTemplate.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\ProductListTemplate.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\SearchItemListTemplate.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\AddressEditPage.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\CheckoutPage.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\DeliveryView.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\LoyaltyPointsView.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\PaymentSuccessPage.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\PaymentView.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\PriceDetailView.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.AssemblyInfoInputs.cache
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.AssemblyInfo.cs
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.csproj.CoreCompileInputs.cache
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.dll
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\ref\PyConsumerApp.dll
+C:\Users\getpy\source\repos\PYDukaanFirstProduction\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.pdb
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\bin\Debug\netstandard2.0\PyConsumerApp.deps.json
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\bin\Debug\netstandard2.0\PyConsumerApp.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\bin\Debug\netstandard2.0\ref\PyConsumerApp.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\bin\Debug\netstandard2.0\PyConsumerApp.pdb
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.csprojAssemblyReference.cache
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Themes\LightTheme.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Bookmarks\CartPage.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Bookmarks\PriceDetailView.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Bookmarks\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\CatalogFilterView.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\CatalogListPage.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\CategoryTilePage.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\SearchItem.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\SubCategoryPage.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\ConnectionView.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Detail\DetailPage.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Detail\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\ErrorandEmpty\EmptyView.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\ErrorandEmpty\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\LoginPage.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\OTPEntry.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\OTPView.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\PhoneNumberEntry.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\History\MyOrdersPage.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\History\MyOrdersView.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\History\OrderSummary.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\History\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\AlbumPage.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\BottomNavigationPage.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\Orders.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\PhotosPage.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\SettingsPage.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Offers\OffersTilePage.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Offers\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Profile\ProfileEditPage.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Profile\ProfilePage.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Profile\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Settings\SettingPage.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Settings\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\CartItemListTemplate.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\OrderHistoryTemplate.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\ProductListTemplate.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\SearchItemListTemplate.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\AddressEditPage.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\CheckoutPage.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\DeliveryView.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\LoyaltyPointsView.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\PaymentSuccessPage.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\PaymentView.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\PriceDetailView.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.AssemblyInfoInputs.cache
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.AssemblyInfo.cs
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.csproj.CoreCompileInputs.cache
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\ref\PyConsumerApp.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.pdb
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\bin\Debug\netstandard2.0\PyConsumerApp.deps.json
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\bin\Debug\netstandard2.0\PyConsumerApp.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\bin\Debug\netstandard2.0\ref\PyConsumerApp.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\bin\Debug\netstandard2.0\PyConsumerApp.pdb
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.csprojAssemblyReference.cache
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Themes\LightTheme.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Bookmarks\CartPage.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Bookmarks\PriceDetailView.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Bookmarks\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\CatalogFilterView.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\CatalogListPage.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\CategoryTilePage.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\SearchItem.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Catalog\SubCategoryPage.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\ConnectionView.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Detail\DetailPage.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Detail\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\ErrorandEmpty\EmptyView.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\ErrorandEmpty\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\LoginPage.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\OTPEntry.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\OTPView.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\PhoneNumberEntry.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Forms\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\History\MyOrdersPage.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\History\MyOrdersView.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\History\OrderSummary.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\History\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\AlbumPage.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\BottomNavigationPage.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\Orders.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\PhotosPage.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\SettingsPage.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Navigation\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Offers\OffersTilePage.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Offers\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Profile\ProfileEditPage.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Profile\ProfilePage.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Profile\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Settings\SettingPage.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Settings\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\CartItemListTemplate.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\OrderHistoryTemplate.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\ProductListTemplate.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\SearchItemListTemplate.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Templates\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\AddressEditPage.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\CheckoutPage.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\DeliveryView.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\LoyaltyPointsView.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\PaymentSuccessPage.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\PaymentView.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\PriceDetailView.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\Views\Transaction\Styles.xaml.g.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.AssemblyInfoInputs.cache
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.AssemblyInfo.cs
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.csproj.CoreCompileInputs.cache
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\ref\PyConsumerApp.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp\obj\Debug\netstandard2.0\PyConsumerApp.pdb

@@ -1,0 +1,316 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\getpy\\source\\repos\\ShopOnConsumerApp\\PyConsumerApp\\PyConsumerApp.iOS\\PyConsumerApp.iOS.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\getpy\\source\\repos\\ShopOnConsumerApp\\PyConsumerApp\\PyConsumerApp.iOS\\PyConsumerApp.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\getpy\\source\\repos\\ShopOnConsumerApp\\PyConsumerApp\\PyConsumerApp.iOS\\PyConsumerApp.iOS.csproj",
+        "projectName": "PyConsumerApp.iOS",
+        "projectPath": "C:\\Users\\getpy\\source\\repos\\ShopOnConsumerApp\\PyConsumerApp\\PyConsumerApp.iOS\\PyConsumerApp.iOS.csproj",
+        "packagesPath": "C:\\Users\\getpy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\getpy\\source\\repos\\ShopOnConsumerApp\\PyConsumerApp\\PyConsumerApp.iOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\getpy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "C:\\Users\\getpy\\source\\repos\\ShopOnConsumerApp\\PyConsumerApp\\PyConsumerApp\\PyConsumerApp.csproj": {
+                "projectPath": "C:\\Users\\getpy\\source\\repos\\ShopOnConsumerApp\\PyConsumerApp\\PyConsumerApp\\PyConsumerApp.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Microsoft.AppCenter.Analytics": {
+              "target": "Package",
+              "version": "[3.2.2, )"
+            },
+            "Microsoft.AppCenter.Crashes": {
+              "target": "Package",
+              "version": "[3.2.2, )"
+            },
+            "SkiaSharp.Svg": {
+              "target": "Package",
+              "version": "[1.60.0, )"
+            },
+            "SkiaSharp.Views.Forms": {
+              "target": "Package",
+              "version": "[1.68.1.1, )"
+            },
+            "Syncfusion.Xamarin.Buttons": {
+              "target": "Package",
+              "version": "[18.1.0.43, )"
+            },
+            "Syncfusion.Xamarin.Cards": {
+              "target": "Package",
+              "version": "[18.1.0.43, )"
+            },
+            "Syncfusion.Xamarin.Core": {
+              "target": "Package",
+              "version": "[18.1.0.43, )"
+            },
+            "Syncfusion.Xamarin.DataSource": {
+              "target": "Package",
+              "version": "[18.1.0.43, )"
+            },
+            "Syncfusion.Xamarin.SfComboBox": {
+              "target": "Package",
+              "version": "[18.1.0.43, )"
+            },
+            "Syncfusion.Xamarin.SfListView": {
+              "target": "Package",
+              "version": "[18.1.0.43, )"
+            },
+            "Syncfusion.Xamarin.SfNumericUpDown": {
+              "target": "Package",
+              "version": "[18.1.0.44, )"
+            },
+            "Syncfusion.Xamarin.SfPopupLayout": {
+              "target": "Package",
+              "version": "[18.1.0.44, )"
+            },
+            "Syncfusion.Xamarin.SfRating": {
+              "target": "Package",
+              "version": "[18.1.0.43, )"
+            },
+            "Syncfusion.Xamarin.SfRotator": {
+              "target": "Package",
+              "version": "[17.3.0.34, )"
+            },
+            "Syncfusion.Xamarin.SfTabView": {
+              "target": "Package",
+              "version": "[18.1.0.44, )"
+            },
+            "Xam.Plugin.Connectivity": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Xam.Plugin.Geolocator": {
+              "target": "Package",
+              "version": "[4.5.0.6, )"
+            },
+            "Xam.Plugin.LatestVersion": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.4.0.991265, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\getpy\\source\\repos\\ShopOnConsumerApp\\PyConsumerApp\\PyConsumerApp\\PyConsumerApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\getpy\\source\\repos\\ShopOnConsumerApp\\PyConsumerApp\\PyConsumerApp\\PyConsumerApp.csproj",
+        "projectName": "PyConsumerApp",
+        "projectPath": "C:\\Users\\getpy\\source\\repos\\ShopOnConsumerApp\\PyConsumerApp\\PyConsumerApp\\PyConsumerApp.csproj",
+        "packagesPath": "C:\\Users\\getpy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\getpy\\source\\repos\\ShopOnConsumerApp\\PyConsumerApp\\PyConsumerApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\getpy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AppCenter.Analytics": {
+              "target": "Package",
+              "version": "[3.2.2, )"
+            },
+            "Microsoft.AppCenter.Crashes": {
+              "target": "Package",
+              "version": "[3.2.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Plugin.Permissions": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Rg.Plugins.Popup": {
+              "target": "Package",
+              "version": "[2.0.0.2, )"
+            },
+            "SkiaSharp.Svg": {
+              "target": "Package",
+              "version": "[1.60.0, )"
+            },
+            "SkiaSharp.Views.Forms": {
+              "target": "Package",
+              "version": "[1.68.1.1, )"
+            },
+            "Syncfusion.Xamarin.Buttons": {
+              "target": "Package",
+              "version": "[18.1.0.44, )"
+            },
+            "Syncfusion.Xamarin.Cards": {
+              "target": "Package",
+              "version": "[18.1.0.44, )"
+            },
+            "Syncfusion.Xamarin.Core": {
+              "target": "Package",
+              "version": "[18.1.0.44, )"
+            },
+            "Syncfusion.Xamarin.DataSource": {
+              "target": "Package",
+              "version": "[18.1.0.44, )"
+            },
+            "Syncfusion.Xamarin.Expander": {
+              "target": "Package",
+              "version": "[18.1.0.44, )"
+            },
+            "Syncfusion.Xamarin.SfBadgeView": {
+              "target": "Package",
+              "version": "[18.1.0.44, )"
+            },
+            "Syncfusion.Xamarin.SfBusyIndicator": {
+              "target": "Package",
+              "version": "[18.1.0.44, )"
+            },
+            "Syncfusion.Xamarin.SfComboBox": {
+              "target": "Package",
+              "version": "[18.1.0.44, )"
+            },
+            "Syncfusion.Xamarin.SfListView": {
+              "target": "Package",
+              "version": "[18.1.0.44, )"
+            },
+            "Syncfusion.Xamarin.SfNavigationDrawer": {
+              "target": "Package",
+              "version": "[18.1.0.44, )"
+            },
+            "Syncfusion.Xamarin.SfNumericUpDown": {
+              "target": "Package",
+              "version": "[18.1.0.44, )"
+            },
+            "Syncfusion.Xamarin.SfPopupLayout": {
+              "target": "Package",
+              "version": "[18.1.0.44, )"
+            },
+            "Syncfusion.Xamarin.SfRating": {
+              "target": "Package",
+              "version": "[18.1.0.44, )"
+            },
+            "Syncfusion.Xamarin.SfRotator": {
+              "target": "Package",
+              "version": "[17.3.0.34, )"
+            },
+            "Syncfusion.Xamarin.SfTabView": {
+              "target": "Package",
+              "version": "[18.1.0.44, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[4.7.2, )"
+            },
+            "XLabs.Forms": {
+              "target": "Package",
+              "version": "[2.0.5782, )"
+            },
+            "Xam.Plugin.Connectivity": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Xam.Plugin.Geolocator": {
+              "target": "Package",
+              "version": "[4.5.0.6, )"
+            },
+            "Xam.Plugin.LatestVersion": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.2, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.5.0.617, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

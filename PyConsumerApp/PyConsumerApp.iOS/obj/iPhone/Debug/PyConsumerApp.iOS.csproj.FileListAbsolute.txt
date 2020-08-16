@@ -1,0 +1,625 @@
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\SkiaSharp.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\PyConsumerApp.iOS.exe
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\PyConsumerApp.iOS.pdb
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.iOS.Bindings.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.Analytics.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.Analytics.iOS.Bindings.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.Crashes.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.Crashes.iOS.Bindings.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.Permissions.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.Permissions.pdb
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Rg.Plugins.Popup.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Rg.Plugins.Popup.pdb
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\SkiaSharp.Extended.Svg.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\SkiaSharp.Views.iOS.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\SkiaSharp.Views.Forms.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Licensing.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Buttons.XForms.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Buttons.XForms.iOS.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Cards.XForms.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Cards.XForms.iOS.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Core.XForms.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Core.XForms.iOS.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.DataSource.Portable.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Expander.XForms.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Expander.XForms.iOS.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.GridCommon.Portable.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfBadgeView.XForms.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfBadgeView.XForms.iOS.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfBusyIndicator.XForms.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfBusyIndicator.XForms.iOS.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfBusyIndicator.iOS.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfComboBox.XForms.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfComboBox.XForms.iOS.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfListView.XForms.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfListView.XForms.iOS.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfNavigationDrawer.XForms.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfNavigationDrawer.XForms.iOS.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfNavigationDrawer.iOS.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfNumericUpDown.XForms.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfNumericUpDown.XForms.iOS.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfPopupLayout.XForms.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfPopupLayout.XForms.iOS.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRating.XForms.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRating.XForms.iOS.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRating.iOS.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRotator.XForms.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRotator.XForms.iOS.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRotator.iOS.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfTabView.XForms.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfTabView.XForms.iOS.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\System.Buffers.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\System.Text.Encodings.Web.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\System.Text.Json.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.Geolocator.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\PyConsumerApp.dll
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\PyConsumerApp.pdb
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\optimized\
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\PyConsumerApp.iOS.csprojAssemblyReference.cache
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\PyConsumerApp.iOS.csproj.CoreCompileInputs.cache
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\XamlC.stamp
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\PyConsumerApp.iOS.csproj.CopyComplete
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\PyConsumerApp.iOS.exe
+C:\Users\getpy\Desktop\rohit\22july\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\PyConsumerApp.iOS.pdb
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\PyConsumerApp.iOS.exe
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\PyConsumerApp.iOS.pdb
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ExifLib.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.iOS.Bindings.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.Analytics.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.Analytics.iOS.Bindings.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.Crashes.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.Crashes.iOS.Bindings.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.Permissions.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.Permissions.pdb
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Rg.Plugins.Popup.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Rg.Plugins.Popup.pdb
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\SkiaSharp.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\SkiaSharp.Extended.Svg.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\SkiaSharp.Views.iOS.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\SkiaSharp.Views.Forms.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Licensing.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Buttons.XForms.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Buttons.XForms.iOS.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Cards.XForms.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Cards.XForms.iOS.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Core.XForms.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Core.XForms.iOS.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.DataSource.Portable.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Expander.XForms.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Expander.XForms.iOS.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.GridCommon.Portable.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfBadgeView.XForms.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfBadgeView.XForms.iOS.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfBusyIndicator.XForms.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfBusyIndicator.XForms.iOS.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfBusyIndicator.iOS.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfComboBox.XForms.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfComboBox.XForms.iOS.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfListView.XForms.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfListView.XForms.iOS.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfNavigationDrawer.XForms.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfNavigationDrawer.XForms.iOS.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfNavigationDrawer.iOS.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfNumericUpDown.XForms.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfNumericUpDown.XForms.iOS.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfPopupLayout.XForms.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfPopupLayout.XForms.iOS.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRating.XForms.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRating.XForms.iOS.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRating.iOS.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRotator.XForms.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRotator.XForms.iOS.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRotator.iOS.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfTabView.XForms.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfTabView.XForms.iOS.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\System.Buffers.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\System.Text.Encodings.Web.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\System.Text.Json.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.Geolocator.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\XLabs.Core.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\XLabs.Forms.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\XLabs.Forms.iOS.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\XLabs.Ioc.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\XLabs.Platform.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\XLabs.Platform.iOS.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\XLabs.Serialization.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\PyConsumerApp.dll
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\PyConsumerApp.pdb
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\optimized\
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\PyConsumerApp.iOS.csprojAssemblyReference.cache
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\PyConsumerApp.iOS.csproj.CoreCompileInputs.cache
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\XamlC.stamp
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\PyConsumerApp.iOS.csproj.CopyComplete
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\PyConsumerApp.iOS.exe
+C:\Users\getpy\source\repos\samar_pymobileconsumerapp\PyConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\PyConsumerApp.iOS.pdb
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\PyConsumerApp.iOS.exe
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\PyConsumerApp.iOS.pdb
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ExifLib.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.iOS.Bindings.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.Analytics.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.Analytics.iOS.Bindings.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.Crashes.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.Crashes.iOS.Bindings.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.Permissions.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.Permissions.pdb
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Rg.Plugins.Popup.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Rg.Plugins.Popup.pdb
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\SkiaSharp.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\SkiaSharp.Extended.Svg.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\SkiaSharp.Views.iOS.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\SkiaSharp.Views.Forms.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Licensing.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Buttons.XForms.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Buttons.XForms.iOS.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Cards.XForms.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Cards.XForms.iOS.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Core.XForms.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Core.XForms.iOS.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.DataSource.Portable.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Expander.XForms.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Expander.XForms.iOS.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.GridCommon.Portable.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfBadgeView.XForms.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfBadgeView.XForms.iOS.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfBusyIndicator.XForms.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfBusyIndicator.XForms.iOS.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfBusyIndicator.iOS.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfComboBox.XForms.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfComboBox.XForms.iOS.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfListView.XForms.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfListView.XForms.iOS.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfNavigationDrawer.XForms.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfNavigationDrawer.XForms.iOS.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfNavigationDrawer.iOS.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfNumericUpDown.XForms.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfNumericUpDown.XForms.iOS.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfPopupLayout.XForms.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfPopupLayout.XForms.iOS.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRating.XForms.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRating.XForms.iOS.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRating.iOS.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRotator.XForms.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRotator.XForms.iOS.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRotator.iOS.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfTabView.XForms.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfTabView.XForms.iOS.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\System.Buffers.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\System.Text.Encodings.Web.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\System.Text.Json.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.Connectivity.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.Connectivity.pdb
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.Geolocator.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.LatestVersion.Abstractions.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.LatestVersion.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\XLabs.Core.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\XLabs.Forms.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\XLabs.Forms.iOS.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\XLabs.Ioc.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\XLabs.Platform.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\XLabs.Platform.iOS.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\XLabs.Serialization.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\PyConsumerApp.dll
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\PyConsumerApp.pdb
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\optimized\
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\PyConsumerApp.iOS.csprojAssemblyReference.cache
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\PyConsumerApp.iOS.csproj.CoreCompileInputs.cache
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\XamlC.stamp
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\PyConsumerApp.iOS.csproj.CopyComplete
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\PyConsumerApp.iOS.exe
+C:\Users\getpy\source\repos\PyConsumerShopOn Final\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\PyConsumerApp.iOS.pdb
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\PyConsumerApp.iOS.exe
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\PyConsumerApp.iOS.pdb
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ExifLib.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.iOS.Bindings.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.Analytics.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.Analytics.iOS.Bindings.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.Crashes.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.Crashes.iOS.Bindings.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.Permissions.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.Permissions.pdb
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Rg.Plugins.Popup.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Rg.Plugins.Popup.pdb
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\SkiaSharp.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\SkiaSharp.Extended.Svg.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\SkiaSharp.Views.iOS.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\SkiaSharp.Views.Forms.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Licensing.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Buttons.XForms.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Buttons.XForms.iOS.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Cards.XForms.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Cards.XForms.iOS.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Core.XForms.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Core.XForms.iOS.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.DataSource.Portable.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Expander.XForms.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Expander.XForms.iOS.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.GridCommon.Portable.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfBadgeView.XForms.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfBadgeView.XForms.iOS.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfBusyIndicator.XForms.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfBusyIndicator.XForms.iOS.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfBusyIndicator.iOS.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfComboBox.XForms.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfComboBox.XForms.iOS.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfListView.XForms.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfListView.XForms.iOS.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfNavigationDrawer.XForms.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfNavigationDrawer.XForms.iOS.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfNavigationDrawer.iOS.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfNumericUpDown.XForms.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfNumericUpDown.XForms.iOS.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfPopupLayout.XForms.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfPopupLayout.XForms.iOS.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRating.XForms.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRating.XForms.iOS.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRating.iOS.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRotator.XForms.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRotator.XForms.iOS.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRotator.iOS.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfTabView.XForms.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfTabView.XForms.iOS.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\System.Buffers.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\System.Text.Encodings.Web.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\System.Text.Json.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.Connectivity.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.Connectivity.pdb
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.Geolocator.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.LatestVersion.Abstractions.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.LatestVersion.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\XLabs.Core.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\XLabs.Forms.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\XLabs.Forms.iOS.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\XLabs.Ioc.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\XLabs.Platform.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\XLabs.Platform.iOS.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\XLabs.Serialization.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\PyConsumerApp.dll
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\PyConsumerApp.pdb
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\optimized\
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\PyConsumerApp.iOS.csprojAssemblyReference.cache
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\PyConsumerApp.iOS.csproj.CoreCompileInputs.cache
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\XamlC.stamp
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\PyConsumerApp.iOS.csproj.CopyComplete
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\PyConsumerApp.iOS.exe
+C:\Users\getpy\source\repos\DailyMartConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\PyConsumerApp.iOS.pdb
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\PyConsumerApp.iOS.exe
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\PyConsumerApp.iOS.pdb
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ExifLib.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.iOS.Bindings.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.Analytics.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.Analytics.iOS.Bindings.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.Crashes.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.AppCenter.Crashes.iOS.Bindings.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.Permissions.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.Permissions.pdb
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Rg.Plugins.Popup.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Rg.Plugins.Popup.pdb
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\SkiaSharp.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\SkiaSharp.Extended.Svg.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\SkiaSharp.Views.iOS.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\SkiaSharp.Views.Forms.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Licensing.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Buttons.XForms.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Buttons.XForms.iOS.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Cards.XForms.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Cards.XForms.iOS.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Core.XForms.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Core.XForms.iOS.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.DataSource.Portable.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Expander.XForms.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.Expander.XForms.iOS.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.GridCommon.Portable.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfBadgeView.XForms.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfBadgeView.XForms.iOS.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfBusyIndicator.XForms.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfBusyIndicator.XForms.iOS.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfBusyIndicator.iOS.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfComboBox.XForms.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfComboBox.XForms.iOS.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfListView.XForms.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfListView.XForms.iOS.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfNavigationDrawer.XForms.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfNavigationDrawer.XForms.iOS.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfNavigationDrawer.iOS.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfNumericUpDown.XForms.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfNumericUpDown.XForms.iOS.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfPopupLayout.XForms.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfPopupLayout.XForms.iOS.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRating.XForms.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRating.XForms.iOS.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRating.iOS.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRotator.XForms.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRotator.XForms.iOS.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfRotator.iOS.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfTabView.XForms.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Syncfusion.SfTabView.XForms.iOS.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\System.Buffers.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\System.Text.Encodings.Web.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\System.Text.Json.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.Connectivity.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.Connectivity.pdb
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.Geolocator.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.LatestVersion.Abstractions.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Plugin.LatestVersion.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\XLabs.Core.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\XLabs.Forms.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\XLabs.Forms.iOS.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\XLabs.Ioc.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\XLabs.Platform.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\XLabs.Platform.iOS.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\XLabs.Serialization.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\PyConsumerApp.dll
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\bin\iPhone\Debug\PyConsumerApp.pdb
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\optimized\
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\PyConsumerApp.iOS.csprojAssemblyReference.cache
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\PyConsumerApp.iOS.csproj.CoreCompileInputs.cache
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\XamlC.stamp
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\PyConsumerApp.iOS.csproj.CopyComplete
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\PyConsumerApp.iOS.exe
+C:\Users\getpy\source\repos\ShopOnConsumerApp\PyConsumerApp\PyConsumerApp.iOS\obj\iPhone\Debug\PyConsumerApp.iOS.pdb
